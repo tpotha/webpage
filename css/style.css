@@ -1,7 +1,36 @@
 a {
-    color: blue; text-decoration:none;
+    color: blue; 
+    text-decoration:none;
 }
 
 h1 {
     font-family: fantasy;
 }
+
+/*div {
+    margin: 200px;
+    background: orange;
+    align-content: center;
+    
+}*/
+body{
+    background-color: darkgreen
+}
+.mainDiv{
+    width: 500px;
+    margin: auto;
+}
+.div1{
+    margin-top: 10px;
+    width: 500px;
+    text-align: center;
+    border: 2px solid white;
+    padding-bottom: 5px;
+}
+/*ul{
+   
+    display: table;
+    text-align: center;
+    margin: auto;
+
+}*/
