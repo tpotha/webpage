@@ -14,7 +14,25 @@ label {
     font-family: sans-serif;
     padding-bottom: 5px; 
 }
+
 textarea {
     width: 400px;
     height: 200px;
+}
+
+h1 {
+   /* background: url("../img/images.png") no-repeat;
+    text-indent: -9999px;
+    width: 300px;
+    height: 141px;*/
+    
+    font-size: 120px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'merienda one', cursive;
+    letter-spacing: -5px;
+    color: black;
+    text-transform: lowercase;
+    text-shadow: 5px 5px 5px blue;
+    
 }

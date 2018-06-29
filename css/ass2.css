@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+nav {
+    background: gray;
+     overflow: hidden;
+    text-align: right;
+}
+nav li {
+    display: inline;
+    padding-right: 10px;
+}
+
+nav ul a {
+    text-decoration: none;
+     color: black;
+   
+    
+}
+
+nav ul a:hover{
+    text-decoration: underline;
+    color: aqua;
+    font-family: fantasy;
+}
+
+.wrap {
+    min-width: 600px;
+    width: 1000px;
+    margin: auto;
+}
+
+.content, aside {
+    height: 600px;
+}
+
+.content {
+    background: red;
+    float:left;
+    width: 60%;
+}
+.left {
+    background: brown;
+    float: left;
+    width: 20%;
+}
+
+.right {
+    background: orange;
+    float: left;
+    width: 20%;
+}
+
+aside a {
+    color: black;
+    text-decoration: none;
+}
+
+aside ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+header {
+    background: blue;
+    text-align: center;
+     overflow: hidden;
+}
+
+footer {
+    background: green;
+    clear: both;
+    text-align: center;
+}
