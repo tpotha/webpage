@@ -24,6 +24,7 @@ aside {
 
 aside a {
     color: black;
+    text-decoration: overline;
 }
 
 aside ul {
