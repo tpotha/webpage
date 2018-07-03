@@ -26,6 +26,8 @@ h1 {
     width: 300px;
     height: 141px;*/
     
+   /* Custom fonts : https://fonts.google.com*/
+    
     font-size: 120px;
     text-align: center;
     margin-top: 50px;
@@ -34,5 +36,6 @@ h1 {
     color: black;
     text-transform: lowercase;
     text-shadow: 5px 5px 5px blue;
+    font-variant: small-caps
     
 }
